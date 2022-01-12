@@ -1,5 +1,6 @@
 package practice_01_05_2022;
 
+
 import java.util.Locale;
 
 public class WraperTask {
@@ -28,5 +29,6 @@ public class WraperTask {
 
 
     }
+
 
 }
